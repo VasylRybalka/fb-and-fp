@@ -1,1 +1,4 @@
-print("Hello!") #fist
+def hello():
+    print("Hello!")
+
+hello()  #second
